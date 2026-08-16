@@ -28,3 +28,4 @@ End-to-end PySpark pipeline for finance transaction data cleaning, transformatio
 
 Built to demonstrate hands-on PySpark data engineering — cleaning, transformation, profiling, and quality validation — on a finance-domain dataset, as a complement to Azure SQL/ADF/Synapse experience.# pyspark-finance-transaction-pipeline
 End-to-end PySpark pipeline for finance transaction data cleaning, transformation, and profiling
+<img width="1919" height="996" alt="image" src="https://github.com/user-attachments/assets/7382df34-de33-45bb-afd5-7db3b8b16cd5" />
